@@ -1,15 +1,12 @@
-# project2
+# Tic Tac Toe
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a game which you should play while you're bored.
+Once you tap an icon at appbar, you will also get two options: New Game and Exit 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
